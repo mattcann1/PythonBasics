@@ -9,5 +9,5 @@ Generates all possible 5 letter passwords containing only lowercase letters, upp
 4) No character can appear twice in a row (e.g. "Haax5" is not valid, but "Ha5ax" is)
 
 
-# Electrical_circuit_analysis
+# Electrical_circuit_analysis.py
 Analyze simple electric circuits, both direct current (DC) and alternating current (AC). Using complex numbers for AC circuits   
