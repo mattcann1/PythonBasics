@@ -11,3 +11,6 @@ Generates all possible 5 letter passwords containing only lowercase letters, upp
 
 # Electrical_circuit_analysis.py
 Analyze simple electric circuits, both direct current (DC) and alternating current (AC). Using complex numbers for AC circuits   
+
+# SIN_function_approx.py
+Using an Infinite Series to Approximate a Function.
